@@ -1,0 +1,42 @@
+.list{
+    width: 100%;
+    margin-top: 40px;
+
+    .listTitle{
+        font-size: 20px;
+        font-weight: 500;
+        color:white;
+        margin-left: 30px;
+    }
+    .wrapper{
+        position: relative;
+        .material-symbols-outlined{
+            position:absolute; 
+            width: 50px;
+            height: 100%; 
+            color:rgb(255, 255, 255);
+            cursor: pointer;
+            top:0;
+            bottom:0;
+            margin: auto;
+            background-color: rgb(22, 22, 22, 0.5);
+            z-index: 99;
+        }
+
+        #rightArrow{
+            right:0;
+        }
+
+        #leftArrow{
+            left:0;
+        }
+        .container{
+            margin-left:50px;
+            display: flex;
+            width: max-content;
+            transform: translateX(0px);
+            transition: all 1s ease;
+        }
+        
+    }
+}

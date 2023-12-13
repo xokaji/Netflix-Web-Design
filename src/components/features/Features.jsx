@@ -21,7 +21,7 @@ export default function Features({type}) {
 
           <img src='https://logos-world.net/wp-content/uploads/2020/11/Spider-Man-Logo.png' alt=''></img>
           <span className="description">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis dolore recusandae sunt, debitis eaque quam? Explicabo asperiores, vel odit excepturi alias adipisci, nesciunt doloremque voluptatum ipsa numquam animi quis sapiente.
+          <br></br>Peter Parker tries to stop Adrian 'The Vulture' Toomes from selling weapons made with advanced Chitauri technology while trying to balance his life as an ordinary high school student.
           </span>
           <div className="buttons">
             <button className="play">
