@@ -14,5 +14,6 @@ const Home = () => {
       <List/>
     </div>
   )
-  }
+}
+
 export default Home
