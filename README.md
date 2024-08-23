@@ -7,6 +7,7 @@ This is a clone Web Apllication and users can able to see the Movies through thi
 
 ##  Technology Use
 * ReactJS
+* CSS and SCSS
 
 ### Page 1
 ![Screenshot 2024-08-23 005014](https://github.com/user-attachments/assets/aa536185-cc1d-4647-9715-9e3efe76d8e1)
