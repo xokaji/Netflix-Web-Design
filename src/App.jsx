@@ -10,7 +10,7 @@ import Watch from './pages/watch/Watch'
 const App = () => {
   return (
     
-    <Login/>
+    <Home/>
 
     
     
